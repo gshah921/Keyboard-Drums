@@ -9,11 +9,6 @@ body,html {
   font-family: sans-serif;
 }
 
-/*h1{
-  color: white;
-  font-size: 20pt;
-}*/
-
 .keys {
   display: flex;
   flex: 1;
